@@ -11,7 +11,13 @@ namespace Pruefung_Praktisch_Musterloesung.Controllers
     {
         /**
          * 
-         * ANTWORTEN BITTE HIER
+         * Attacke 1: Files unter anderem Namen aufrufen. 
+         * 
+         * Files mit anderem Namen aufrufen. 
+         * Beispiel: Website.com//Lab1/Detail?file=fakefile.jpg
+         * Der Controller sucht den Pfad im Verzeichnis zeigt alles an.
+         * 
+         * Attacke 2:
          * 
          * */
 

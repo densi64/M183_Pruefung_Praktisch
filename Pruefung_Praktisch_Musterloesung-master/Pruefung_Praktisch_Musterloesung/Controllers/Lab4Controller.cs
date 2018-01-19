@@ -13,7 +13,9 @@ namespace Pruefung_Praktisch_Musterloesung.Controllers
 
         /**
         * 
-        * ANTWORTEN BITTE HIER
+        * Antwort 1: 
+        * 
+        * Antwort 2:
         * 
         * */
 

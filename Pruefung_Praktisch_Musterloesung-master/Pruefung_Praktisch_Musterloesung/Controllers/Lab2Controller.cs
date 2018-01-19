@@ -17,7 +17,9 @@ namespace Pruefung_Praktisch_Musterloesung.Controllers
 
         /**
         * 
-        * ANTWORTEN BITTE HIER
+        * Anwort 1: Session Hijacking
+        * 
+        * Antwort 2: 
         * 
         * */
 
