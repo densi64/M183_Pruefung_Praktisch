@@ -17,10 +17,16 @@ namespace Pruefung_Praktisch_Musterloesung.Controllers
 
         /**
         * 
-        * Anwort 1: Session Hijacking
+        * Da die Session nicht überprüft wird, kann man auch ohne ein Login in den Backend-Bereich landen.
+        * Der genutzte Browser wird nicht überprüft
         * 
-        * Antwort 2: 
         * 
+        * Beispiel: mywebsite.com/backend
+        * 
+        * 
+        * 
+        * Wenn sich die ID der Session nicht bei jeder Abfrage ändert, kann man leicht eine bereits bestehende Session klauen.. 
+        * Da der Browser nicht überprüft wird, können sich problemlos verdächtige Browser einloggen. 
         * */
 
         public ActionResult Index() {
